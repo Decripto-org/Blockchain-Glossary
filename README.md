@@ -6,7 +6,7 @@ Welcome to the Cryptocurrency and Blockchain Glossary – a comprehensive collec
 
 - Browse: Explore the glossary to find definitions for a wide range of terms. The glossary covers fundamental concepts, popular cryptocurrencies, consensus mechanisms, token standards, and much more.
 
-- Contribute: If you're interested in expanding the glossary, feel free to contribute by submitting pull requests. Whether you want to add new terms or improve existing definitions, your contributions are valuable in making this resource more comprehensive.
+- Contribute: If you're interested in expanding the glossary, feel free to contribute by submitting pull requests. Whether you want to add new terms or improve existing definitions, your contributions are valuable in making this resource more comprehensive. See the [CONTIBUTING.md](https://github.com/Decripto-org/Blockchain-Glossary/blob/main/CONTRIBUTING.md) file.
 
 - Share: Spread the knowledge! If you find this glossary helpful, share it with others who may benefit from a better understanding of the language used in the cryptocurrency and blockchain space.
 
