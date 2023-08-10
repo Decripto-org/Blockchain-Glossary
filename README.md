@@ -379,6 +379,9 @@ The fear of missing out on potential gains in the cryptocurrency market, leading
 ### Fork
 A modification to the source code of an existing blockchain that creates an alternative version. It can be a hard fork (irreversible divergence) or a soft fork (compatible upgrade).
 
+### FUD
+FUD, an acronym for "Fear, Uncertainty, and Doubt," refers to the spreading of negative or misleading information about a particular cryptocurrency, project, or market with the intention of creating fear and panic among investors or the community. 
+
 ### Full Node
 
 A full node is a computer or server on a blockchain network that maintains a complete copy of the blockchain and participates in validating and propagating transactions and blocks.
