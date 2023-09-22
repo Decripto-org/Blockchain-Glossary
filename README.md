@@ -6,7 +6,7 @@ Welcome to the Cryptocurrency and Blockchain Glossary – a comprehensive collec
 
 - Browse: Explore the glossary to find definitions for a wide range of terms. The glossary covers fundamental concepts, popular cryptocurrencies, consensus mechanisms, token standards, and much more.
 
-- Contribute: If you're interested in expanding the glossary, feel free to contribute by submitting pull requests. Whether you want to add new terms or improve existing definitions, your contributions are valuable in making this resource more comprehensive.
+- Contribute: If you're interested in expanding the glossary, feel free to contribute by submitting pull requests. Whether you want to add new terms or improve existing definitions, your contributions are valuable in making this resource more comprehensive. You can look in the [CONTRIBUTING.md](https://github.com/Decripto-org/Blockchain-Glossary/blob/main/CONTRIBUTING.md) file.
 
 - Share: Spread the knowledge! If you find this glossary helpful, share it with others who may benefit from a better understanding of the language used in the cryptocurrency and blockchain space.
 
@@ -23,6 +23,7 @@ Let's work together to make cryptocurrency and blockchain concepts more accessib
 Account abstraction refers to the concept in blockchain technology where the functionality of an account is extended beyond simple balance tracking. It allows smart contracts and decentralized applications (dApps) to interact directly with the blockchain, enabling more complex operations and interactions.
 
 ### AES (Advanced Encryption Standard)
+
 AES is a widely used symmetric encryption algorithm that ensures the confidentiality and security of data.
 
 ### Airdrop
@@ -42,6 +43,7 @@ An alpha release is an early version of a software product that is made availabl
 An altcoin is any cryptocurrency other than Bitcoin. The term "altcoin" stands for "alternative coin" and refers to the wide variety of digital currencies that have been created as alternatives to Bitcoin.
 
 ### AMA (Ask Me Anything)
+
 A Q&A session where individuals, often team members of a project, answer questions posed by a community. AMAs are commonly conducted on social media platforms or forums.
 
 ### AMLD5 (Anti-Money Laundering Directive 5)
@@ -57,30 +59,39 @@ An angel investor is an individual who provides capital or funding to early-stag
 Arbitrage is the practice of taking advantage of price differences for the same asset on different markets or exchanges. Traders engage in arbitrage to profit from price discrepancies by buying low on one exchange and selling high on another.
 
 ### ATH (All-Time High)
+
 ATH refers to the highest price level that a cryptocurrency or asset has reached over its entire history.
 
 ### ATL (All-Time Low)
+
 ATL refers to the lowest price level that a cryptocurrency or asset has reached over its entire history.
 
 ### API (Application Programming Interface)
+
 An API is a set of rules and protocols that allows different software applications to communicate and interact with each other.
 
 ### APR (Annual Percentage Rate)
+
 APR is the annualized interest rate or cost associated with borrowing or lending, often used to compare the cost of loans or financial products.
 
 ### APY (Annual Percentage Yield)
+
 APY is a more comprehensive measure of the potential return on an investment, accounting for compounding interest over time.
 
 ### **ASIC (Application-Specific Integrated Circuit)**  
+
 A specialized hardware device designed for a specific computational task, often used in cryptocurrency mining.
 
 ### Asymmetric Encryption
+
 Asymmetric encryption involves the use of a pair of keys, a public key for encryption and a private key for decryption, providing enhanced security and authentication.
 
 ### Atomic Swap
+
 An atomic swap is a smart contract-based technology that enables the direct exchange of one cryptocurrency for another between two parties without the need for an intermediary.
 
 ### Audit
+
 An audit is a comprehensive examination and review of a project, smart contract, or system to assess its security, functionality, and compliance with established standards and best practices.
 
 ### Auditor
@@ -142,6 +153,7 @@ A beta release is a more advanced version of a software product that is made ava
 In the context of cybersecurity, a black hat refers to a malicious hacker who engages in illegal or unauthorized activities, such as exploiting vulnerabilities, stealing data, or causing harm to systems and networks.
 
 ### Blockchain
+
 A distributed ledger technology that securely and transparently records transactions. Information is organized in blocks linked together, forming an immutable chain.
 
 - **Blockchain 1.0**: The first generation of blockchain technology, primarily associated with Bitcoin and its use as a decentralized digital currency.
@@ -157,12 +169,15 @@ A blockchain transmission protocol refers to the set of rules and mechanisms tha
 The blockchain trilemma is a concept that highlights the trade-offs among three key attributes of a blockchain network: security, scalability, and decentralization. It suggests that it is challenging to achieve high levels of all three attributes simultaneously, and optimizing one may come at the expense of the others.
 
 ### BLS Signature
+
 BLS (Boneh-Lynn-Shacham) signature is a cryptographic signature scheme that offers efficiency and scalability advantages, commonly used in blockchain networks.
 
 ### Borrowing
+
 Borrowing in the context of finance and DeFi refers to the act of obtaining assets or funds from a lending platform with the agreement to repay them along with interest or fees.
 
 ### BPS (Basis Points)
+
 Basis points (BPS) represent a unit of measurement used in finance to describe changes in interest rates, percentages, or yields. One basis point is equal to 0.01%.
 
 ### Brute Force Attack
@@ -182,6 +197,7 @@ A bull market is a period of sustained upward movement in the prices of financia
 A bull trap is a deceptive market situation where prices appear to be recovering during a bear market, luring investors to buy, only to see prices drop again, causing losses for those who bought in prematurely.
 
 ### Burning
+
 Burning refers to the permanent removal of tokens from circulation, often done to reduce the total supply or to comply with specific tokenomics.
 
 ### Byzantine Fault Tolerance
@@ -195,15 +211,19 @@ Byzantine Fault Tolerance (BFT) is a property of a distributed consensus algorit
 A Central Bank Digital Currency (CBDC) is a digital form of a country's official currency issued and regulated by the central bank. It serves as a digital representation of physical cash and is often used for electronic transactions and payments.
 
 ### CDO (Chief Data Officer)
+
 The CDO is an executive responsible for managing and leveraging an organization's data assets to drive business insights and decisions.
 
 ### CEO (Chief Executive Officer)
+
 The CEO is the highest-ranking executive in a company who is responsible for making strategic decisions and managing overall operations.
 
 ### CEX (Centralized Exchange)
+
 A centralized cryptocurrency exchange where trading of various cryptocurrencies takes place on a single platform. These exchanges are managed by a central entity and often provide a user-friendly interface for trading.
 
 ### CFO (Chief Financial Officer)
+
 The CFO is a senior executive responsible for managing a company's financial operations, financial planning, and financial reporting.
 
 ### Cloud Mining
@@ -211,6 +231,7 @@ The CFO is a senior executive responsible for managing a company's financial ope
 Cloud mining is a service that allows individuals to mine cryptocurrencies without the need to own or operate their own mining hardware. Users rent computing power from a cloud mining provider to participate in the mining process.
 
 ### Cold Wallet
+
 A cold wallet is a cryptocurrency wallet that is offline and not connected to the internet. It provides enhanced security and is often used for long-term storage.
 
 ### Collateral
@@ -226,6 +247,7 @@ A composable token refers to a type of cryptocurrency token that can be easily i
 Consensus in blockchain technology refers to the collective agreement among participants in a network regarding the validity of transactions and the state of the blockchain. Different consensus mechanisms, such as Proof of Work (PoW) and Proof of Stake (PoS), determine how consensus is achieved.
 
 ### COO (Chief Operating Officer)
+
 The COO is an executive responsible for overseeing a company's day-to-day operations and ensuring efficient business processes.
 
 ### Cross-Chain
@@ -233,9 +255,11 @@ The COO is an executive responsible for overseeing a company's day-to-day operat
 Cross-chain refers to interactions and interoperability between different blockchain networks. Cross-chain technologies enable the transfer of assets and data between separate blockchains, expanding the functionality and utility of decentralized ecosystems.
 
 ### Cryptocurrency
+
 A form of digital currency that uses cryptography to secure transactions and control the creation of new units. Bitcoin is the first and most well-known cryptocurrency.
 
 ### CTO (Chief Technology Officer)
+
 The CTO is an executive responsible for the technology and technical direction of a company, often involved in strategic technology decisions.
 
 ### Custodial
@@ -245,6 +269,7 @@ Custodial refers to a service or platform that holds and manages users' assets, 
 ## D
 
 ### DAO (Decentralized Autonomous Organization)
+
 An organization governed by smart contracts and operated by its members. DAOs use blockchain technology to facilitate decision-making and management processes.
 
 ### dApp (Decentralized Application)
@@ -252,9 +277,11 @@ An organization governed by smart contracts and operated by its members. DAOs us
 A dApp, or decentralized application, is a software application that operates on a blockchain network and utilizes smart contracts for its functions. dApps aim to provide transparency, security, and decentralization.
 
 ### Decentralization
+
 A fundamental principle of blockchains, involving the distribution of decision-making and control among many participants rather than a single entity.
 
 ### DeFi (Decentralized Finance)
+
 DeFi refers to a set of financial services and applications built on blockchain technology that aim to provide decentralized alternatives to traditional financial systems.
 
 ### Deflation
@@ -266,6 +293,7 @@ Deflation refers to a decrease in the general price level of goods and services 
 Delegated Proof of Stake (DPoS) is a consensus mechanism used in some blockchain networks where participants (delegates) are elected by token holders to validate transactions and create new blocks on their behalf.
 
 ### Delegator
+
 In a proof-of-stake (PoS) blockchain network, a delegator is a participant who assigns their staking tokens to a validator, allowing the validator to stake on their behalf and share rewards.
 
 ### DDoS Attack (Distributed Denial of Service Attack)
@@ -284,6 +312,7 @@ Difficulty refers to the level of complexity and effort required to successfully
 A dip refers to a short-term decrease in the price of a cryptocurrency or asset after a period of growth or bullish market activity.
 
 ### Distributed Ledger
+
 A distributed ledger is a decentralized database that records and stores transactions across multiple nodes or participants in a network. It ensures transparency and immutability of data.
 
 ### Distributed Ledger Technology
@@ -321,6 +350,7 @@ EIP-1559 (Ethereum Improvement Proposal 1559) is a significant upgrade to the Et
 An exploit is a piece of code, technique, or action that takes advantage of a vulnerability or weakness in a system, application, or network to gain unauthorized access, control, or manipulate data.
 
 ### Explorer
+
 A tool that allows users to view and verify transactions, addresses, and blocks on a blockchain. Blockchain explorers provide transparency and visibility into the network's activity.
 
 ### ERC-20 Token Standard
@@ -358,6 +388,7 @@ ERC-1155 is a token standard on the Ethereum blockchain that introduces a hybrid
 ## F
 
 ### FATF (Financial Action Task Force)
+
 The Financial Action Task Force (FATF) is an international organization that sets standards and promotes policies to combat money laundering, terrorist financing, and other financial crimes.
 
 ### Faucet
@@ -365,19 +396,28 @@ The Financial Action Task Force (FATF) is an international organization that set
 A faucet is a website or application that distributes small amounts of cryptocurrency to users for free as a way to introduce them to the technology or promote a specific project.
 
 ### Federated Blockchain
+
 A federated blockchain is a private or consortium blockchain where multiple organizations or entities collaborate to manage and control the network.
 
 ### Fiat Currency
+
 Traditional government-issued currency, such as the US Dollar or Euro, that is not backed by a physical commodity but rather by the government's declaration and legal tender laws.
 
 ### Flash Loan
+
 A type of decentralized finance (DeFi) loan that allows users to borrow and repay funds within a single transaction block, provided the borrowed amount is returned within the same block.
 
 ### FOMO (Fear Of Missing Out)
+
 The fear of missing out on potential gains in the cryptocurrency market, leading investors to act impulsively.
 
 ### Fork
+
 A modification to the source code of an existing blockchain that creates an alternative version. It can be a hard fork (irreversible divergence) or a soft fork (compatible upgrade).
+
+### FUD
+
+FUD, an acronym for "Fear, Uncertainty, and Doubt," refers to the spreading of negative or misleading information about a particular cryptocurrency, project, or market with the intention of creating fear and panic among investors or the community. 
 
 ### Full Node
 
@@ -390,12 +430,15 @@ In trading, "spot" refers to the current market price of an asset, while "future
 ## G
 
 ### Gas Fee
+
 A gas fee is a transaction fee paid by users on a blockchain network to compensate validators or miners for processing their transactions.
 
 ### Gas Limit
+
 The maximum amount of computational effort (gas) that a user is willing to spend on a transaction or smart contract execution on a blockchain network.
 
 ### Governance
+
 The processes and mechanisms through which decisions are made and changes are implemented within a blockchain project or protocol.
 
 ### Gwei
@@ -417,6 +460,7 @@ A hard fork is a significant and irreversible change to the rules of a blockchai
 A hardware wallet is a physical device that securely stores cryptocurrency private keys offline. It provides enhanced security by keeping the keys isolated from internet-connected devices.
 
 ### Hash
+
 A hash is a function that converts input data of any size into a fixed-size string of characters. It is commonly used in cryptography and blockchain technology for data integrity verification.
 
 ### Hash Power
@@ -436,6 +480,7 @@ A holder refers to an individual or entity that owns and holds a specific amount
 A honeypot is a cybersecurity technique or trap designed to attract and identify unauthorized access attempts or malicious activities by luring potential attackers.
 
 ### Hot Wallet
+
 A hot wallet is a cryptocurrency wallet that is connected to the internet and is used for frequent transactions. It offers convenience but may be more vulnerable to security breaches.
 
 ### Hyperledger
@@ -445,12 +490,15 @@ Hyperledger is an open-source collaborative effort hosted by the Linux Foundatio
 ## I
 
 ### ICO (Initial Coin Offering)
+
 A fundraising method in which a new cryptocurrency or token is offered to the public in exchange for other cryptocurrencies, such as Bitcoin or Ethereum.
 
 ### IDO (Initial DEX Offering)
+
 An initial token sale conducted on a decentralized exchange (DEX), allowing participants to acquire new tokens directly from the exchange.
 
 ### IEO (Initial Exchange Offering)
+
 An initial token sale hosted by a centralized exchange, which helps with fundraising and provides a platform for token sales.
 
 ### IFO (Initial Farm Offering)
@@ -498,12 +546,15 @@ KYT refers to the process of monitoring and analyzing transactions to identify p
 ## L
 
 ### Layer 1
+
 The primary blockchain layer that handles core transaction and consensus functions. Layer 1 solutions are standalone blockchains (e.g., Bitcoin, Ethereum).
 
 ### Layer 2
+
 Secondary scaling solutions built on top of layer 1 blockchains to enhance scalability and efficiency. Layer 2 solutions include technologies like sidechains and state channels.
 
 ### Lending
+
 Lending involves providing assets or funds to borrowers on a lending platform in exchange for interest payments or fees.
 
 ### libp2p
@@ -511,38 +562,49 @@ Lending involves providing assets or funds to borrowers on a lending platform in
 libp2p is a modular network stack and protocol suite that enables peer-to-peer communication and connectivity in decentralized applications.
 
 ### Light Paper
+
 A simplified version of a white paper that presents key information about a cryptocurrency project, such as its purpose, features, and advantages, in a concise manner.
 
 ### Liquidity
+
 The ease with which an asset can be bought or sold without causing significant price changes.
 
 ### Liquidity Pool
+
 A liquidity pool is a reserve of assets locked in a smart contract on a decentralized exchange (DEX) or automated market maker (AMM) platform, used to facilitate trading and provide liquidity.
 
 ### Liquidity Provider
+
 An LP is an individual or entity that provides liquidity to a decentralized exchange (DEX) or automated market maker (AMM) platform by depositing assets into a liquidity pool.
 
 ## M
 
 ### Mainnet
+
 The fully operational and live version of a blockchain network, where real transactions and activities take place, as opposed to testnets or other development environments.
 
 ### Market Cap
+
 The total value of a cryptocurrency multiplied by its current price. An indicator of the relative size of a cryptocurrency.
 
 ### Market Makers
+
 Market makers are individuals or entities that provide liquidity to financial markets by offering to buy or sell assets at specified prices.
 
 ### Masternode
+
 A type of cryptocurrency node that fulfills specific functions within a blockchain network, often requiring a minimum amount of the cryptocurrency to be held as collateral.
 
 ### Mempool
+
 The mempool, short for memory pool, is a temporary storage area within a blockchain where unconfirmed transactions wait to be included in a block.
 
 ### MEV (Miner Extractable Value)
+
 MEV refers to the profit miners can make by reordering, including, or excluding transactions within a block to maximize their revenue, often in decentralized finance (DeFi) environments.
 
 ### Merkle Tree
+
 A data structure used in blockchain networks to efficiently verify the integrity and inclusion of transactions within a block.
 
 ### Miner
@@ -550,6 +612,7 @@ A data structure used in blockchain networks to efficiently verify the integrity
 A miner is a participant in a proof-of-work blockchain network who uses computational power to solve complex mathematical puzzles and validate transactions, contributing to the security and consensus of the network.
 
 ### Mining
+
 The process of validating transactions and adding new blocks to the blockchain, typical of proof-of-work blockchains.
 
 ### Mining Farm
@@ -565,24 +628,33 @@ A mining pool is a collective group of miners who combine their computational re
 A mining rig is a specialized computer system built for cryptocurrency mining, often equipped with multiple GPUs or ASICs to efficiently solve cryptographic puzzles.
 
 ### Minting
+
 Minting refers to the process of creating new tokens, often associated with non-fungible tokens (NFTs) or other blockchain-based assets.
+
+### MLM (Multi-Level Marketing)
+
+Multi-Level Marketing (MLM), also known as network marketing or pyramid selling, is a marketing strategy where participants earn commissions not only for their direct sales of products or services but also for the sales made by individuals they recruit into the program. 
 
 ### Mnemonic Phrase
 
 A mnemonic phrase, also known as a seed phrase or recovery phrase, is a series of words that represent the private key of a cryptocurrency wallet. It is used for wallet recovery and backup.
 
 ### Multi-Party Computation (MPC)
+
 MPC is a cryptographic technique where multiple parties jointly compute a function on their individual inputs while keeping their inputs private. It enhances privacy and security in various applications.
 
 ### Multi-Signature (Multi-sig)
+
 Multi-signature refers to a security feature that requires multiple private keys to authorize a cryptocurrency transaction. It enhances security by requiring multiple approvals.
 
 ## N
 
 ### NFT (Non-Fungible Token)
+
 A type of cryptographic token that represents unique and indivisible digital ownership of an item or content, such as images, videos, games, etc.
 
 ### Node
+
 A computer or device that participates in the network by maintaining a copy of the blockchain and validating transactions. Nodes play a crucial role in the decentralized nature of blockchains.
 
 ### Non-Custodial
@@ -600,9 +672,11 @@ Notarization in blockchain refers to the process of creating an immutable and ta
 ## O 
 
 ### Oracle
+
 An oracle is a third-party data source or service that provides external information to a blockchain smart contract, enabling it to interact with the real world.
 
 ### OTC (Over-the-Counter)
+
 OTC refers to the direct trading of assets, such as cryptocurrencies, between parties without the use of an exchange. OTC trades often involve large volumes and may be facilitated by brokers.
 
 ### Open Source
@@ -644,9 +718,11 @@ POAP, is a type of non-fungible token (NFT) that is minted to represent attendan
 A Ponzi scheme is a fraudulent investment scheme where returns are paid to earlier investors using funds from newer investors, rather than from legitimate profits.
 
 ### POS (Proof of Stake)
+
 A consensus mechanism where participants (validators) are chosen to create new blocks and validate transactions based on the number of tokens they hold and "stake" as collateral.
 
 ### POW (Proof of Work)
+
 A consensus mechanism used in blockchain networks where participants (miners) solve complex mathematical puzzles to validate transactions and create new blocks.
 
 ### Pre-Sale
@@ -654,9 +730,11 @@ A consensus mechanism used in blockchain networks where participants (miners) so
 A pre-sale is an initial token sale conducted before the public sale, often available to a select group of investors or participants at a discounted price.
 
 ### Private Key
+
 A secret number that enables access to and control of funds in a wallet. It must be kept secret and secure.
 
 ### Private Sale
+
 A private sale is a token sale that is conducted privately, often to a select group of investors or participants, before a public sale.
 
 ### Proof of Reserve
@@ -696,9 +774,11 @@ Proof of Time is a consensus mechanism where participants prove the passage of t
 Proof of Validation is a consensus mechanism that combines elements of proof of stake and proof of authority, where validators prove their financial commitment and expertise.
 
 ### Public Key
+
 A public address derived from the private key, used to receive payments or encrypted messages.
 
 ### Public Sale
+
 A public sale is a token sale that is open to the general public, allowing a broader range of investors to participate.
 
 ### Pyramid Scheme
@@ -708,6 +788,7 @@ A Pyramid Scheme is a fraudulent business model where participants recruit other
 ## Q
 
 ### Quantum Resistance
+
 Quantum resistance refers to the resistance of cryptographic algorithms and systems to attacks by quantum computers, which have the potential to break certain traditional encryption methods.
 
 ### Quorum
@@ -729,6 +810,7 @@ ReFi, short for refinancing, is the process of replacing an existing loan or fin
 A relay chain is the main blockchain within a blockchain network that coordinates and connects multiple sidechains or other components.
 
 ### Request For Quote (RFQ)
+
 RFQ is a trading mechanism where a buyer requests quotes from market makers or liquidity providers before executing a trade.
 
 ### Roadmap
@@ -736,6 +818,7 @@ RFQ is a trading mechanism where a buyer requests quotes from market makers or l
 A roadmap is a strategic plan or timeline that outlines the goals, milestones, and planned developments for a project over a specific period.
 
 ### ROI (Return on Investment)
+
 ROI is a measure of the profitability of an investment, calculated as the ratio of the gain or loss from an investment relative to its cost.
 
 ### Rug Pull
@@ -761,6 +844,7 @@ A scamcoin refers to a cryptocurrency created with malicious intent or deceptive
 A scammer is an individual or entity that engages in fraudulent activities to deceive and exploit others, often for financial gain.
 
 ### SDK (Software Development Kit)
+
 An SDK is a collection of software tools and resources that developers use to create and enhance applications for specific platforms or technologies.
 
 ### Secondary Market
@@ -772,6 +856,7 @@ The secondary market refers to the marketplace where previously issued securitie
 Secure Proof of Stake is a consensus mechanism that combines the security features of proof of stake with additional safeguards to prevent malicious behavior.
 
 ### Security Token
+
 A type of cryptocurrency token that represents ownership in an asset, such as real estate, equity in a company, or other financial instruments.
 
 ### Segregated Witness (SegWit)
@@ -779,12 +864,15 @@ A type of cryptocurrency token that represents ownership in an asset, such as re
 Segregated Witness (SegWit) is a protocol upgrade for certain blockchain networks that separates transaction data from signature data, improving efficiency and scalability.
 
 ### SHA256
+
 SHA256 is a cryptographic hash function that generates a fixed-size output (256 bits) and is commonly used in blockchain technology.
 
 ### Shamir’s Secret Sharing
+
 Shamir's Secret Sharing is a cryptographic technique that divides a secret into multiple parts, called shares, which are distributed among participants. A minimum threshold of shares is required to reconstruct the original secret.
 
 ### Sharding
+
 A scalability technique in which a blockchain network is divided into smaller partitions (shards) to process transactions and smart contracts concurrently, increasing throughput.
 
 ### Shitcoin
@@ -804,9 +892,11 @@ A sidechain is a separate blockchain that is interoperable with the main blockch
 Slashing refers to the penalty imposed on validators in proof-of-stake networks for malicious or incorrect behavior, such as double-signing or network disruptions.
 
 ### Slippage
+
 Slippage refers to the difference between the expected price of a trade and the actual executed price due to market volatility and liquidity.
 
 ### Smart Contract
+
 A self-executing program that automatically and accurately carries out predefined conditions in its code. Smart contracts run on a blockchain.
 
 ### Spot and Future
@@ -834,6 +924,7 @@ Supply Chain refers to the sequence of processes involved in producing and distr
 Swarm refers to a network of interconnected nodes that collaborate to perform tasks or functions in a decentralized and autonomous manner.
 
 ### Sybil Attack
+
 A malicious activity where an attacker creates multiple fake identities or nodes to gain disproportionate control or influence over a network.
 
 ### SPL Token Standard
@@ -841,18 +932,23 @@ A malicious activity where an attacker creates multiple fake identities or nodes
 SPL (Solana Program Library) is a token standard on the Solana blockchain. It provides a framework for creating fungible and non-fungible tokens, supporting high-speed transactions and scalability.
 
 ### Stablecoin
+
 A type of cryptocurrency that aims to maintain a stable value by pegging its price to a reserve asset, such as a fiat currency or commodity.
 
 ### Staking
+
 The locking and immobilization of a certain amount of cryptocurrency in a wallet to support the operations of a proof-of-stake blockchain and earn rewards.
 
 ### Straight Through Processing (STP)
+
 STP is an automated process used in financial services to streamline the flow of transactions from initiation to settlement without manual intervention.
 
 ### Supply
+
 The total number of units of a cryptocurrency in circulation. It can be divided into circulating supply and total supply.
 
 ### Symmetric Encryption
+
 Symmetric encryption is a cryptographic method where the same key is used for both encryption and decryption of data.
 
 ## T
@@ -866,12 +962,15 @@ Taproot is a proposed Bitcoin protocol upgrade that enhances privacy and scalabi
 Tendermint is a Byzantine fault-tolerant consensus engine that powers many blockchain networks. It ensures secure and consistent block validation and consensus among participants.
 
 ### Testnet
+
 A separate blockchain network used by developers to test and experiment with new features, smart contracts, and applications before deploying them to the mainnet.
 
 ### TGE Date (Token Generation Event Date)
+
 The TGE date refers to the specific date when a new token is generated or created, often associated with a token sale or distribution event.
 
 ### Threshold Signature Scheme
+
 A threshold signature scheme is a cryptographic method where multiple parties collectively create a single digital signature without revealing individual private keys.
 
 ### Timestamp
@@ -879,9 +978,11 @@ A threshold signature scheme is a cryptographic method where multiple parties co
 A timestamp is a digital record indicating the date and time when a specific event or transaction occurred within a blockchain network.
 
 ### Token
+
 A digital representation of value based on a blockchain. Tokens can represent assets, rights, or specific access within a system.
 
 ### Token Deployer
+
 An entity or individual responsible for creating and launching a new cryptocurrency token. This involves defining the token's properties, smart contracts, and functionalities.
 
 ### Token Issuance
@@ -901,7 +1002,12 @@ Token migration is the process of transferring tokens from one blockchain networ
 Tokenization is the process of representing real-world assets or rights as digital tokens on a blockchain, enabling fractional ownership and enhanced liquidity.
 
 ### Tokenomics
+
 The economic model and design of a cryptocurrency token. Tokenomics encompasses factors like token distribution, supply mechanisms, inflation rate, utility, and its role within a project's ecosystem.
+
+### TradFi
+
+TradFi, short for "Traditional Finance," refers to the established and conventional financial systems and institutions that have been in place for many years, predating the advent of blockchain technology and cryptocurrencies.
 
 ### TRC-20 Token Standard
 
@@ -928,20 +1034,25 @@ UTXO refers to the output of a transaction that has not yet been used as an inpu
 ## V
 
 ### Validator
+
 A validator is a participant in a proof-of-stake (PoS) blockchain network responsible for verifying and validating transactions and creating new blocks.
 
 ### Vesting
+
 Vesting refers to the process by which ownership or access to assets, such as tokens or stocks, is gradually earned over a specified period, often as part of an incentive or compensation plan.
 
 ### Virtual Asset Service Providers (VASPS)
+
 VASPs are entities that provide services related to virtual assets, such as cryptocurrency exchanges, wallet providers, and custodians.
 
 ## W
 
 ### Whale
+
 A term used to describe individuals or entities that hold a significant amount of a cryptocurrency, often with the potential to influence market prices due to their large holdings.
 
 ### Wallet
+
 An application or device that allows for the management, storage, and exchange of cryptocurrencies in a secure manner.
 
 ### White Hat
@@ -949,6 +1060,7 @@ An application or device that allows for the management, storage, and exchange o
 In the context of cybersecurity, a white hat refers to an ethical hacker or cybersecurity expert who uses their skills to identify vulnerabilities and weaknesses in systems, applications, or networks for the purpose of improving security.
 
 ### White Paper
+
 A technical document that outlines the details of a crypto project, including conceptual foundations, technology, token usage, and roadmap.
 
 ### Wrapped Token
@@ -958,11 +1070,13 @@ A wrapped token is a digital representation of an underlying cryptocurrency or a
 ## Y
 
 ### Yellow Paper
+
 A technical document that provides detailed specifications and technical explanations of a blockchain project's protocols, algorithms, and functionalities. It is more technical than a white paper.
 
 ## Z
 
 ### Zero-Knowledge Proof (ZK)
+
 A cryptographic technique that allows one party (the prover) to prove to another party (the verifier) that a statement is true without revealing any specific details about the statement itself.
 
 ### Zero-Day Vulnerability

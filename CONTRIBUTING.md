@@ -41,6 +41,3 @@ Thank you for your interest in contributing to the Cryptocurrency and Blockchain
 Contributions will be reviewed by the repository maintainers. Please allow some time for your pull request to be reviewed. You may receive feedback or requests for changes before your contribution is merged.
 
 Thank you for contributing to the Cryptocurrency and Blockchain Glossary!
-```
-
-Ricorda di personalizzare il file con il nome del tuo repository e le istruzioni specifiche per la tua community di contributori. Assicurati anche di includere il [Code of Conduct](CODE_OF_CONDUCT.md) e la [Licenza](LICENSE) appropriata nel tuo repository.
